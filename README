@@ -10,7 +10,7 @@ mtd@misc 0460 radio diag
 /dev/audience_A1010		0660   system     audio
 /dev/tpa2016d2
 
--	
+- remember that you will need the boot.img to match this recovery. i will also upload the boot.img too	
 
 MORE TO COME
 
