@@ -1,0 +1,5 @@
+mtd@misc 0460 radio diag
+/dev/ttyHS1			0600   bluetooth  bluetooth
+/dev/htc_acoustic_wince		0660   system     audio
+/dev/audience_A1010		0660   system     audio
+/dev/tpa2016d2	
